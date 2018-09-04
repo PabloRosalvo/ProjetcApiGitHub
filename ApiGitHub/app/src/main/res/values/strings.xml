@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiGitHub</string>
+    <string name="internet">No internet connection, Please Make sure your device is connected to the internet </string>
+</resources>
